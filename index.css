@@ -1,0 +1,20 @@
+.float-right{
+	float:right;
+}
+
+.center-vertical{
+	width: 70%;
+	padding-top: 15%;
+	margin: 0 auto;
+	
+}
+
+.title{
+	background: #0BD7E6;
+	background: -webkit-linear-gradient(to right, #0BD7E6 0%, #4040FF 50%, #383473 100%);
+	background: -moz-linear-gradient(to right, #0BD7E6 0%, #4040FF 50%, #383473 100%);
+	background: linear-gradient(to right, #0BD7E6 0%, #4040FF 50%, #383473 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size:5em;
+}
